@@ -1,7 +1,7 @@
 /**
- * All rights Reserved, Designed By ASPIRE
+ * All rights Reserved, Designed By ARDJ
  * Copyright: Copyright(C) 2016-2020
- * Company    ASPIRE  Co., Ltd.
+ * Company    ARDJ  Co., Ltd.
  */
 package com.ardj.testshell.service;
 
