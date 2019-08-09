@@ -1,0 +1,12 @@
+spring:
+  sjbar:
+    convert:
+      path: /home/tibet/convert/pkg/
+      name: genTexData.sh
+    resource:
+      path: /home/tibet/arstatic/
+      unzip: unzip
+  profiles:
+    active: 100
+
+
